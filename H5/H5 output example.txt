@@ -1,0 +1,425 @@
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 1
+name of hotel: Adlon
+arrival on: 30.12.2018
+how many nights: 3
+how many single bed rooms: 1
+how many double bed rooms: 1
+a all inclusive
+b breakfast
+h half board
+w without meals
+h
+price one night in single bed room: 100
+price one night in double bed room: 150
+with parking (y(es) or n(o)): n
+please choose transport for outward journey
+0 self organised
+1 by flight
+2 by train
+your choice: 2
+code of train: ICE 123
+main train station of departure: Duisburg Hbf
+main train station of arrival: Berlin Hbf
+price for one passenger: 15
+please choose transport for journey back
+0 self organised
+1 by flight
+2 by train
+your choice: 2
+code of train: ICE 321
+main train station of departure: Berlin Hbf
+main train station of arrival: Duisburg Hbf
+price for one passenger: 17
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 1 for 3 person(s)
+check-in:        hotel 30.12.2018 Adlon for 3 night(s) 1 double bed room(s) 1 single bed room(s)
+                                  half board
+outward journey: train 30.12.2018 ICE 123 from Duisburg Hbf to Berlin Hbf
+journey back:    train 02.01.2019 ICE 321 from Berlin Hbf to Duisburg Hbf
+no transfer
+          price: 846.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 1
+name of hotel: Bavaria
+arrival on: 25.09.2019
+how many nights: 1
+how many single bed rooms: 0
+how many double bed rooms: 1
+a all inclusive
+b breakfast
+h half board
+w without meals
+b
+price one night in single bed room: 50
+price one night in double bed room: 80
+with parking (y(es) or n(o)): y
+please choose transport for outward journey
+0 self organised
+1 by flight
+2 by train
+your choice: 0
+please choose transport for journey back
+0 self organised
+1 by flight
+2 by train
+your choice: 0
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+trip inquiry 1 for 3 person(s)
+check-in:        hotel 30.12.2018 Adlon for 3 night(s) 1 double bed room(s) 1 single bed room(s)
+                                  half board
+outward journey: train 30.12.2018 ICE 123 from Duisburg Hbf to Berlin Hbf
+journey back:    train 02.01.2019 ICE 321 from Berlin Hbf to Duisburg Hbf
+no transfer
+          price: 846.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 1
+name of hotel: RIU
+arrival on: 25.05.2019
+how many nights: 10
+how many single bed rooms: 5
+how many double bed rooms: 5
+a all inclusive
+b breakfast
+h half board
+w without meals
+a
+price one night in single bed room: 50
+price one night in double bed room: 80
+with parking (y(es) or n(o)): n
+please choose transport for outward journey
+0 self organised
+1 by flight
+2 by train
+your choice: 1
+code of flight: KLM 1234
+airport of departure: Amsterdam
+airport of arrival: Palma
+price for one passenger: 29
+please choose transport for journey back
+0 self organised
+1 by flight
+2 by train
+your choice: 1
+code of flight: KLM 4567
+airport of departure: Palma
+airport of arrival: Duesseldorf
+price for one passenger: 39
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+trip inquiry 1 for 3 person(s)
+check-in:        hotel 30.12.2018 Adlon for 3 night(s) 1 double bed room(s) 1 single bed room(s)
+                                  half board
+outward journey: train 30.12.2018 ICE 123 from Duisburg Hbf to Berlin Hbf
+journey back:    train 02.01.2019 ICE 321 from Berlin Hbf to Duisburg Hbf
+no transfer
+          price: 846.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 2
+number of trip: 1
+trip inquiry 1 for 3 person(s)
+check-in:        hotel 30.12.2018 Adlon for 3 night(s) 1 double bed room(s) 1 single bed room(s)
+                                  half board
+outward journey: train 30.12.2018 ICE 123 from Duisburg Hbf to Berlin Hbf
+journey back:    train 02.01.2019 ICE 321 from Berlin Hbf to Duisburg Hbf
+no transfer
+          price: 846.00 EUR
+
+(d)elete or (n)ot: d
+destructor hotel Adlon at 30.12.2018 for 3 guests done
+destructor Train done
+destructor PublicTransport ICE 123 at 30.12.2018 done
+destructor Transport done
+destructor Train done
+destructor PublicTransport ICE 321 at 02.01.2019 done
+destructor Transport done
+destructor Trip done
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 2
+number of trip: 3
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+(d)elete or (n)ot: n
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 1
+name of hotel: Atlantic
+arrival on: 28.2.2019
+how many nights: 1
+how many single bed rooms: 1
+how many double bed rooms: 0
+a all inclusive
+b breakfast
+h half board
+w without meals
+w
+price one night in single bed room: 100
+price one night in double bed room: 200
+with parking (y(es) or n(o)): n
+please choose transport for outward journey
+0 self organised
+1 by flight
+2 by train
+your choice: 0
+please choose transport for journey back
+0 self organised
+1 by flight
+2 by train
+your choice: 0
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 4 for 1 person(s)
+check-in:        hotel 28.02.2019 Atlantic for 1 night(s) 1 single bed room(s)
+                                  without meals
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 100.00 EUR
+
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 2
+number of trip: 1
+trip not found
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 2
+number of trip: 3
+trip inquiry 3 for 15 person(s)
+check-in:        hotel 25.05.2019 RIU for 10 night(s) 5 double bed room(s) 5 single bed room(s)
+                                  all inclusive
+outward journey: flight 25.05.2019 KLM 1234 from Amsterdam to Palma
+journey back:    flight 04.06.2019 KLM 4567 from Duesseldorf to Palma
+transfer included
+          price: 7520.00 EUR
+
+(d)elete or (n)ot: d
+destructor hotel RIU at 25.05.2019 for 15 guests done
+destructor Flight done
+destructor PublicTransport KLM 1234 at 25.05.2019 done
+destructor Transport done
+destructor Flight done
+destructor PublicTransport KLM 4567 at 04.06.2019 done
+destructor Transport done
+destructor Trip done
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 4 for 1 person(s)
+check-in:        hotel 28.02.2019 Atlantic for 1 night(s) 1 single bed room(s)
+                                  without meals
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 100.00 EUR
+
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 2
+number of trip: 4
+trip inquiry 4 for 1 person(s)
+check-in:        hotel 28.02.2019 Atlantic for 1 night(s) 1 single bed room(s)
+                                  without meals
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 100.00 EUR
+
+(d)elete or (n)ot: d
+destructor hotel Atlantic at 28.02.2019 for 1 guests done
+destructor SelfOrganised done
+destructor Transport done
+destructor SelfOrganised done
+destructor Transport done
+destructor Trip done
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice: 3
+trip inquiry 2 for 2 person(s)
+check-in:        hotel 25.09.2019 Bavaria for 1 night(s) 1 double bed room(s)
+                                  with breakfast, parking included
+outward journey: self organised transport
+journey back:    self organised transport
+no transfer
+          price: 90.00 EUR
+
+
+HOTLINE TRAVEL AGENCY
+0 end
+1 new trip
+2 search trip
+3 show all trip offers
+your choice:
